@@ -141,11 +141,8 @@ Stay productive, automate tasks, and build faster. ✨
 
 ## 📚 Articles & Media
 
-### 🎥 [YouTube: Tool Roundup – #1](https://www.youtube.com/watch?v=i42MXC-9dNI)
+### 🎥 [YouTube: Example ](https://www.youtube.com)
 > Walkthrough of underrated tools to boost productivity.
-
-### 🎥 [YouTube: Tool Roundup – #2](https://www.youtube.com/watch?v=qRJGylzyx3U)
-> Continued list of free utilities and enhancements.
 
 ---
 
