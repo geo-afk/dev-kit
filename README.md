@@ -56,6 +56,15 @@ Stay productive, automate tasks, and build faster. ✨
 
 ---
 
+### 📘 [Awesome-Python](https://github.com/vinta/awesome-python)
+> 🧰 A curated collection of useful and unique tools - from productivity boosters to entertainment utilities.
+- 🛠️ Handy for developers, creators, and power users
+- 🎯 Focused on practicality, uniqueness, and usability
+- 🧪 Includes open-source gems and underrated tools
+
+
+---
+
 ## 🎨 Design & UI Tools
 
 ### 🖼️ [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
