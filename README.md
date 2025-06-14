@@ -42,6 +42,20 @@ Stay productive, automate tasks, and build faster. ✨
 - ☁️ Managed or self-hosted
 - 💡 Dev-first APIs
 
+### [freeprojectapi](https://www.freeprojectapi.com/api.html#docs)
+> Free, ready-to-use API service for projects and prototypes.
+- ⚡ Instantly accessible endpoints
+- 🧪 Perfect for testing and learning
+- 🛠️ No backend setup required
+
+
+### [PocketBase]([https://www.freeprojectapi.com/api.html#docs](https://pocketbase.io/))
+> Lightweight backend in a single file — perfect for modern apps.
+- 🗂️ Built-in DB, auth, and file storage
+- ⚡ Real-time data via WebSocket
+- 🛠️ Easy to run locally or deploy anywhere
+
+
 ### 📦 [Zod](https://zod.dev/?id=api-libraries)
 > TypeScript-first schema validation with static type inference.
 - ✅ Type-safe validation
