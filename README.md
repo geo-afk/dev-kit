@@ -49,7 +49,7 @@ Stay productive, automate tasks, and build faster. ✨
 - 🛠️ No backend setup required
 
 
-### [PocketBase]([https://www.freeprojectapi.com/api.html#docs](https://pocketbase.io/))
+### [PocketBase](https://pocketbase.io/)
 > Lightweight backend in a single file — perfect for modern apps.
 - 🗂️ Built-in DB, auth, and file storage
 - ⚡ Real-time data via WebSocket
